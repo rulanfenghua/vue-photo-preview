@@ -212,7 +212,6 @@ var vuePhotoPreview ={
 								　　
 								var i = new Image();　　
 								i.src = el.src;
-								l.msrc = el.getAttribute('src');　　
 								var rw = i.width;　　
 								var rh = i.height;
 							} else {　　 // HTML5 browsers
